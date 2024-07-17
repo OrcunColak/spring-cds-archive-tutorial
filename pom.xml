@@ -15,7 +15,7 @@
     <description>Demo project for Spring Boot Class Data Sharing (CDS)</description>
 
     <properties>
-        <java.version>22</java.version>
+        <java.version>21</java.version>
     </properties>
 
     <build>
