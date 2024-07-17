@@ -21,3 +21,8 @@ Run
 java -XX:ArchiveClassesAtExit=app-cds.jsa "-Dspring.context.exit=onRefresh" -jar .\target\spring-cds-tutorial-0.0.1-SNAPSHOT.jar
 java -Xshare:on -XX:SharedArchiveFile=app-cds.jsa -jar .\target\spring-cds-tutorial-0.0.1-SNAPSHOT.jar
 ```
+
+# spring-boot-startup-report
+
+Go to  
+http://localhost:8080/startup-report
