@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.colak</groupId>
-    <artifactId>spring-cds-tutorial</artifactId>
+    <artifactId>spring-cds-archive-tutorial</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-cds-tutorial</name>
+    <name>spring-cds-archive-tutorial</name>
     <description>Demo project for Spring Boot Class Data Sharing (CDS)</description>
 
     <properties>
